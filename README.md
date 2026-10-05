@@ -1,1 +1,3 @@
 # NFADesignExercises1
+
+Out of the five problems that I chose to do, the one that gave me the most trouble was number 13: {string s | s contains at least 2 1s}. For me, this was because I had to account for all the possible values between those two ones. However, I did use AI to help me understand NFAs. DFAs were much easier for me to understand, so making DFAs was much easier, but I had difficulty with NFAs when accounting for how each stage could branch out using the same input. I do feel as though I need some more practice with NFAs, so before the midterm, I am going to put in more practice making NFAs with more difficult rules on my own time.
